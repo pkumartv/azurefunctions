@@ -1,0 +1,22 @@
+faas
+
+Azure functions =faas++
+
+warm state on containers
+triggers http, queue db
+
+logic app
+
+blob sotrage
+
+timer triggers (cronjobs)
+
+
+https://azurehappyhours.azurewebsites.net/api/azurehappyhours?name=%22Ptest%22
+
+open tracing
+Jaeger
+
+
+microservices 
+distributed
